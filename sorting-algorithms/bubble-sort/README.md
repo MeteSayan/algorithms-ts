@@ -12,7 +12,7 @@ Bubble sort is one of the simplest sorting algorithms. In this comparison-based 
 - Auxiliary Space: O(1)
 
 ---
-## Bubble-sort with Hungarian ("Csángó") folk dance :simple_smile:
+## Bubble-sort with Hungarian ("Csángó") folk dance :slightly_smiling_face:
 If you still think that you do not fully understand, you can watch the video below.
 
 [![bubble-sort-hungarian-folk-dance](https://img.youtube.com/vi/lyZQPjUT5B4/0.jpg)](https://www.youtube.com/watch?v=lyZQPjUT5B4)

@@ -1,4 +1,3 @@
-# algorithms-ts
 Algorithms with TypeScript
 
 # Usage
@@ -12,3 +11,9 @@ OR
 $ npm install -g ts-node
 $ ts-node script-name.ts
 ```
+
+---
+
+## Algorithms
++ [Sorting Algorithms](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms)
+    + [Bubble Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/bubble-sort)

@@ -13,4 +13,4 @@ Linear(Sequential) search is a very simple algorithm. Finds the target number by
 ## LINEAR search with FLAMENCO dance :slightly_smiling_face:
 If you still think that you do not fully understand, you can watch the video below.
 
-[![bubble-sort-hungarian-folk-dance](https://img.youtube.com/vi/-PuqKbu9K3U/0.jpg)](https://www.youtube.com/watch?v=-PuqKbu9K3U)
+[![linear-search-with-flamenco-dance](https://img.youtube.com/vi/-PuqKbu9K3U/0.jpg)](https://www.youtube.com/watch?v=-PuqKbu9K3U)

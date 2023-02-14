@@ -1,5 +1,11 @@
 Algorithms with TypeScript
 
+<p align="center">
+	<a href="https://github.com/metesayan/algorithms-ts/stargazers"><img src="https://img.shields.io/github/stars/metesayan/algorithms-ts?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/metesayan/algorithms-ts/issues"><img src="https://img.shields.io/github/issues/metesayan/algorithms-ts?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/metesayan/algorithms-ts/contributors"><img src="https://img.shields.io/github/contributors/metesayan/algorithms-ts?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
+
 # Usage
 You can use the ts-node package.
 

@@ -2,7 +2,7 @@
 
 Bubble sort is one of the simplest sorting algorithms. In this comparison-based algorithm, each element in the list is compared with the next element. This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high.
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
+![Bubble-sort-example](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
 ## Time Complexity
 

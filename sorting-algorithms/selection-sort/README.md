@@ -11,11 +11,11 @@ The algorithm repeatedly selects the smallest (or largest) element from the unso
 - Best Case O(n²)
 - Auxiliary Space: O(1)
 
-## Selection-sort with Hungarian ("Csángó") folk dance :slightly_smiling_face
+## Selection-sort with Gypsy folk dance :slightly_smiling_face
 
 If you still think that you do not fully understand, you can watch the video below.
 
-[![selection-sort-hungarian-folk-dance](https://img.youtube.com/vi/Ns4TPTC8whw/0.jpg)](https://www.youtube.com/watch?v=Ns4TPTC8whw)
+[![selection-sort-Gypsy-folk-dance](https://img.youtube.com/vi/Ns4TPTC8whw/0.jpg)](https://www.youtube.com/watch?v=Ns4TPTC8whw)
 
 ## References
 

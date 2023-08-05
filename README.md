@@ -26,6 +26,7 @@ $ ts-node script-name.ts
 + [Sorting Algorithms](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms)
   + [Bubble Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/bubble-sort)
   + [Selection Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/selection-sort)
+  + [Insertion Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/insertion-sort)
 + [Searching Algorithms](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms)
   + [Linear (Sequential) Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/linear-search)
   + [Binary Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/binary-search)

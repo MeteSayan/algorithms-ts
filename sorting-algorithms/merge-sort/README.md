@@ -1,4 +1,4 @@
-# Selection Sort
+# Merge Sort
 
 Using the Divide and Conquer technique, we divide a problem into subproblems. When the solution to each subproblem is ready, we 'combine' the results from the subproblems to solve the main problem.
 
@@ -29,7 +29,7 @@ When the conquer step reaches the base step and we get two sorted subarrays A[p.
 
 If you still think that you do not fully understand, you can watch the video below.
 
-[![selection-sort-Gypsy-folk-dance](https://img.youtube.com/vi/XaqR3G_NVoo/0.jpg)](https://www.youtube.com/watch?v=XaqR3G_NVoo)
+[![merge-sort-Transylvanian-saxon-folk-dance](https://img.youtube.com/vi/XaqR3G_NVoo/0.jpg)](https://www.youtube.com/watch?v=XaqR3G_NVoo)
 
 ## References
 

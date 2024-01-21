@@ -13,7 +13,7 @@ To sort an array of size N in ascending order iterate over the array and compare
 - Best Case O(n)
 - Auxiliary Space: O(1)
 
-## Insertion Sort with Romanian folk dance :slightly_smiling_face
+## Insertion Sort with Romanian folk dance
 
 If you still think that you do not fully understand, you can watch the video below.
 

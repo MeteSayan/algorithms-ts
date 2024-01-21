@@ -25,7 +25,7 @@ When the conquer step reaches the base step and we get two sorted subarrays A[p.
 - Best Case O(n*log n)
 - Auxiliary Space: O(n)
 
-## Merge-sort with Transylvanian-saxon (German) folk dance :slightly_smiling_face
+## Merge-sort with Transylvanian-saxon (German) folk dance
 
 If you still think that you do not fully understand, you can watch the video below.
 

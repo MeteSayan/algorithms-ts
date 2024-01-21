@@ -9,7 +9,7 @@ Binary Search is a very simple, intuitive, yet efficient searching algorithm. Th
 - Best Case - O(1)
 - Auxiliary Space: O(1)
 
-## BINARY search with FLAMENCO dance :slightly_smiling_face
+## BINARY search with FLAMENCO dance
 
 If you still think that you do not fully understand, you can watch the video below.
 

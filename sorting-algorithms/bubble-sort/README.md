@@ -11,7 +11,7 @@ Bubble sort is one of the simplest sorting algorithms. In this comparison-based 
 - Best Case O(n) - Linear Time Complexity (The best case occurs when an array is already sorted.)
 - Auxiliary Space: O(1)
 
-## Bubble-sort with Hungarian ("Csángó") folk dance :slightly_smiling_face
+## Bubble-sort with Hungarian ("Csángó") folk dance
 
 If you still think that you do not fully understand, you can watch the video below.
 

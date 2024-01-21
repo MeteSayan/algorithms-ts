@@ -9,7 +9,7 @@ Linear(Sequential) search is a very simple algorithm. Finds the target number by
 - Best Case O(1) - The first number in the array is the target number.
 - Auxiliary Space: O(1)
 
-## LINEAR search with FLAMENCO dance :slightly_smiling_face
+## LINEAR search with FLAMENCO dance
 
 If you still think that you do not fully understand, you can watch the video below.
 

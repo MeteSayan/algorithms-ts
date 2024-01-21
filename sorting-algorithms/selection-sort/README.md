@@ -11,7 +11,7 @@ The algorithm repeatedly selects the smallest (or largest) element from the unso
 - Best Case O(n²)
 - Auxiliary Space: O(1)
 
-## Selection-sort with Gypsy folk dance :slightly_smiling_face
+## Selection-sort with Gypsy folk dance
 
 If you still think that you do not fully understand, you can watch the video below.
 

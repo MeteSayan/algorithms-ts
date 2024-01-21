@@ -39,7 +39,7 @@ QuickSort is widely used and has been a fundamental algorithm in many programmin
 - Space Complexity (In-Place): O(log n)
 - Space Complexity (With Additional Memory): O(n)
 
-## Quick-sort with Hungarian (Küküllőmenti legényes) folk dance :slightly_smiling_face
+## Quick-sort with Hungarian (Küküllőmenti legényes) folk dance
 
 If you still think that you do not fully understand, you can watch the video below.
 

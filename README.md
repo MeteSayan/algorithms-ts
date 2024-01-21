@@ -56,7 +56,7 @@ $ ts-node script-name.ts
   + [Linear (Sequential) Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/linear-search)
   + [Binary Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/binary-search)
   + [Sentinel Linear Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/sentinel-linear-search/)
-  + [Meta Binary Search | One-Sided Binary Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/) [To be added]
+  + [Meta Binary Search | One-Sided Binary Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/meta-binary-search/)
   + [Ternary Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/) [To be added]
   + [Jump Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/) [To be added]
   + [Interpolation Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/) [To be added]

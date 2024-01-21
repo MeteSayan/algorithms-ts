@@ -28,7 +28,7 @@ $ ts-node script-name.ts
   + [Selection Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/selection-sort)
   + [Insertion Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/insertion-sort)
   + [Merge Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/merge-sort)
-  + [Quick Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
+  + [QuickSort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/quick-sort)
   + [Heap Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
   + [Counting Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
   + [Radix Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]

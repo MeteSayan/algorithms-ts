@@ -3,7 +3,6 @@
 		"target": "ESNext",
 		"module": "ESNext",
 		"esModuleInterop": true,
-		"skipLibCheck": true,
-		"moduleDetection": "force"
+		"skipLibCheck": true
 	}
 }

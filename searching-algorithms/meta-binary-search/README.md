@@ -30,6 +30,8 @@ The algorithm initializes two pointers, `low` and `high`, to represent the curre
 
 - The algorithm terminates either when the target element is found, or when the search range becomes empty.
 
+The effectiveness of Meta Binary Search lies in its ability to adapt the search based on the pattern of the array, potentially reducing the number of iterations required to find the target element compared to a traditional binary search. It's important to note that Meta Binary Search is most useful when applied to arrays with specific monotonic patterns.
+
 ## Time Complexity
 
 - Worst Case Time Complexity: O(log n)

@@ -22,6 +22,10 @@ The Sentinel Linear Search algorithm is a variation of the traditional linear se
 
 - After the search is completed, the sentinel element is removed from the array before returning the result.
 
+The purpose of adding a sentinel is to eliminate the need for an explicit boundary check within the search loop. In a traditional linear search, the loop would have to check whether the end of the array is reached in each iteration, which can be computationally expensive. By using a sentinel, the loop condition becomes simpler, and the termination is guaranteed, improving the algorithm's efficiency.
+
+It's worth noting that while the Sentinel Linear Search is a small optimization, its effectiveness depends on the specific use case and the cost of the comparison operation. In some cases, the improvement may be negligible.
+
 ## Time Complexity
 
 - Worst Case Time Complexity: O(n)

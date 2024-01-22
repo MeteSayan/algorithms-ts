@@ -25,7 +25,7 @@ Ternary Search is a searching algorithm that operates on a sorted array and divi
 
 ### 4- Iteration
 
-- Repeat steps 2-3 until the target is found or the search range becomes empty (`left > right`).
+- Repeat steps 2-3 until the target is found or the search range becomes empty (`left <= right`).
 
 ### 5- Termination
 

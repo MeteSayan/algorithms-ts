@@ -62,4 +62,3 @@ $ ts-node script-name.ts
   + [Interpolation Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/) [To be added]
   + [Exponential Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/) [To be added]
   + [Fibonacci Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/) [To be added]
-  + [The Ubiquitous Binary Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/) [To be added]

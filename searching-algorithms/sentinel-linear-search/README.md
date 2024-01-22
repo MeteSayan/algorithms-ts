@@ -32,3 +32,19 @@ It's worth noting that while the Sentinel Linear Search is a small optimization,
 - Average Case Time Complexity: O(n)
 - Best Case Time Complexity: O(1)
 - Auxiliary Space Complexity: O(1)
+
+### Worst Case
+
+In the worst case, the target element is not present in the array, and the algorithm needs to iterate through the entire array and reach the sentinel. The time complexity in the worst case is O(n), where n is the length of the array.
+
+### Average Case
+
+The average case time complexity is also O(n). This is because, in an average scenario, when the target element is present, the algorithm may find it before reaching the end of the array, but the average time complexity is still proportional to the size of the input.
+
+### Best Case
+
+In the best case, the target element is found at the beginning of the array. The time complexity in the best case is O(1), as the algorithm finds the element without needing to traverse the entire array.
+
+### Auxiliary Space Complexity
+
+The Sentinel Linear Search algorithm uses a constant amount of additional space for the sentinel element. Therefore, the auxiliary space complexity is O(1), which indicates constant space usage regardless of the input size.

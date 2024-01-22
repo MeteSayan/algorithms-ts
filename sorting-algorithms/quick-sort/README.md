@@ -39,6 +39,30 @@ QuickSort is widely used and has been a fundamental algorithm in many programmin
 - Space Complexity (In-Place): O(log n)
 - Space Complexity (With Additional Memory): O(n)
 
+### Worst Case
+
+The worst-case time complexity occurs when the chosen pivot leads to highly unbalanced partitions, essentially reducing the problem size by only one element in each recursive call. In this case, the worst-case time complexity is O(n^2). This can happen, for example, when the array is already sorted, and the pivot is consistently chosen as the first or last element.
+
+### Average Case
+
+On average, QuickSort has a time complexity of O(n log n). This average-case behavior is achieved when the pivot choices and partitioning consistently lead to a balanced partitioning of the array.
+
+### Best Case
+
+The best-case time complexity occurs when the pivot choices and partitioning consistently lead to well-balanced partitions, essentially dividing the array into two equal halves in each recursive call. In the best case, the time complexity is O(n log n).
+
+### Space Complexity
+
+The space complexity of QuickSort depends on whether it is implemented as an in-place sorting algorithm or if additional memory is used for temporary arrays during partitioning.
+
+#### In-Place QuickSort
+
+If implemented as an in-place algorithm (which is common), the space complexity is O(log n) due to the recursive call stack. Each recursive call consumes space on the call stack, and since QuickSort typically divides the array into two halves, the maximum depth of the recursion is log n.
+
+#### With Additional Memory
+
+If additional memory is used during the partitioning process, such as in the implementation provided earlier that uses additional arrays for the left and right partitions, the space complexity becomes O(n) in the worst case. This occurs when each recursive call creates new arrays, leading to a linear amount of additional space.
+
 ## Quick-sort with Hungarian (Küküllőmenti legényes) folk dance
 
 If you still think that you do not fully understand, you can watch the video below.

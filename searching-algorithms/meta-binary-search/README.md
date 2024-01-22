@@ -38,3 +38,19 @@ The effectiveness of Meta Binary Search lies in its ability to adapt the search 
 - Average Case Time Complexity: O(log n)
 - Best Case Time Complexity: O(1)
 - Auxiliary Space Complexity: O(1)
+
+### Worst Case
+
+In the worst-case scenario, the target element is not present in the array, and the algorithm has to perform a binary search until the search range becomes empty (`low > high`). The time complexity in the worst case is O(log n), where n is the length of the array. This is because the search range is halved in each iteration.
+
+### Average Case
+
+In the average case, the time complexity remains O(log n) since, on average, the algorithm efficiently narrows down the search range by half in each iteration.
+
+### Best Case
+
+In the best case, the target element is found in the first iteration. The time complexity in the best case is O(1), as the algorithm can immediately determine the index of the target element.
+
+### Auxiliary Space Complexity
+
+The Meta Binary Search algorithm uses a constant amount of additional space for the pointers (`low`, `high`, and `mid`). Therefore, the auxiliary space complexity is O(1), indicating constant space usage regardless of the input size.

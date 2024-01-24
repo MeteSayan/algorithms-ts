@@ -60,5 +60,5 @@ $ ts-node script-name.ts
   + [Ternary Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/ternary-search/)
   + [Jump Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/jump-search/)
   + [Interpolation Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/interpolation-search/)
-  + [Exponential Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/) [To be added]
+  + [Exponential Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/exponential-search/)
   + [Fibonacci Search](https://github.com/MeteSayan/algorithms-ts/tree/main/searching-algorithms/) [To be added]

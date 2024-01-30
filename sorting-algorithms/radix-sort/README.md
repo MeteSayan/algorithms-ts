@@ -1,6 +1,6 @@
 # Radix Sort
 
-Radix Sort is a non-comparative sorting algorithm that works by distributing elements into buckets based on their individual digits or significant places. It processes the digits from the least significant place (LSD) to the most significant place (MSD) or vice versa, resulting in a stable sort
+Radix Sort is a non-comparative sorting algorithm that works by distributing elements into buckets based on their individual digits or significant places. It processes the digits from the least significant place (LSD) to the most significant place (MSD) or vice versa, resulting in a stable sort.
 
 ## How Radix Sort Works
 

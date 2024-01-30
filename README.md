@@ -32,7 +32,7 @@ $ ts-node script-name.ts
   + [Heap Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/heap-sort)
   + [Counting Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/counting-sort)
   + [Radix Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/radix-sort)
-  + [Bucket Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
+  + [Bucket Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/bucket-sort)
   + [Bingo Sort Algorithm](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
   + [ShellSort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
   + [TimSort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]

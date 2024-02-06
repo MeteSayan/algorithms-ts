@@ -23,7 +23,7 @@ Bucket Sort is a sorting algorithm that divides the input array into a set of bu
 - Sort each individual bucket. This can be done using any suitable sorting algorithm (e.g., insertion sort, quicksort, or mergesort).
 - If the range of values in each bucket is small, a simple algorithm like insertion sort might be sufficient.
 
-### 4- Concatenate Sorted Buckets
+### 5- Concatenate Sorted Buckets
 
 - Concatenate the sorted buckets to obtain the final sorted array.
 

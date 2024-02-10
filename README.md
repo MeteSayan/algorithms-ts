@@ -37,7 +37,7 @@ $ ts-node script-name.ts
   + [Shell Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/shell-sort)
   + [TimSort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/tim-sort)
   + [Comb Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/comb-sort)
-  + [Pigeonhole Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
+  + [Pigeonhole Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/pigeonhole-sort)
   + [Cycle Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
   + [Cocktail Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
   + [Strand Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]

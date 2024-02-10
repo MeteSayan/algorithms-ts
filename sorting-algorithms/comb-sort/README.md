@@ -31,18 +31,18 @@ Comb Sort is a variation of bubble sort that introduces the concept of a gap or 
 
 ### Best Case
 
-O(n) - In the best-case scenario, TimSort performs as efficiently as insertion sort when the input array is already partially sorted or contains a small number of inversions.
+O(n log n) - The best-case time complexity of Comb Sort is O(n log n), which occurs when the input array is already sorted or nearly sorted. However, this scenario is unlikely to occur in practice due to the nature of Comb Sort's gap reduction technique.
 
 ### Average Case
 
-O(n log n) - TimSort typically performs well on average, sorting most types of input data efficiently with a time complexity of O(n log n).
+O(n^2) - The average-case time complexity of Comb Sort is also O(n^2). Although Comb Sort improves upon bubble sort by introducing the gap reduction technique, it still exhibits quadratic behavior on average.
 
 ### Worst Case
 
-O(n log n) - In the worst case, TimSort performs as efficiently as merge sort, which has a time complexity of O(n log n). This occurs when the input array is completely unsorted or reverse-sorted, requiring multiple merge operations to sort the array.
+O(n^2) - In the worst case, Comb Sort performs as inefficiently as bubble sort, with a time complexity of O(n^2). This occurs when the input array is in reverse order, requiring a maximum number of comparisons and swaps.
 
 ### Space Complexity
 
-Auxiliary Space: O(n) - The auxiliary space complexity of TimSort is O(n) because it requires additional space proportional to the size of the input array for the merging step. This space is used to store temporary arrays during the merging process.
+Auxiliary Space: O(1) - Comb Sort requires only a constant amount of additional space (O(1)) for storing temporary variables and indices during the sorting process. It sorts the array in-place without requiring additional memory proportional to the input size.
 
-TimSort's performance and efficiency make it a popular choice for sorting large datasets in practice. It combines the strengths of merge sort and insertion sort, making it suitable for a wide range of input data and providing good performance in most scenarios.
+Comb Sort's time complexity is influenced by the choice of the gap reduction factor, which determines the rate at which the gap decreases during each iteration. While Comb Sort provides a simple and memory-efficient sorting algorithm, it is generally not as efficient as more advanced sorting algorithms like quicksort or mergesort for large datasets. However, it can be useful for sorting small or nearly sorted arrays efficiently.

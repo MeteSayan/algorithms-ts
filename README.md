@@ -40,7 +40,7 @@ $ ts-node script-name.ts
   + [Pigeonhole Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/pigeonhole-sort)
   + [Cycle Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/cycle-sort)
   + [Cocktail Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/cocktail-sort)
-  + [Strand Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
+  + [Strand Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/strand-sort)
   + [Bitonic Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
   + [Pancake sorting](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
   + [BogoSort or Permutation Sort](https://github.com/MeteSayan/algorithms-ts/tree/main/sorting-algorithms/) [To be added]
